@@ -1,8 +1,7 @@
 import getip_ec2
 import socket
 
-hosts = ['server.r9y.de', 'unifi.r9y.de']
-zoneId = "Z375FNAJJ0BS3F"
+from config import *
 
 for host in hosts:
     print(host)

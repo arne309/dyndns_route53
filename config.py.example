@@ -1,0 +1,4 @@
+# Rename this example to config.py
+
+hosts = ['host1.example.com', 'host2.example.com']
+zoneId = "YOUR_ROUTE53_ZONEID_HERE"
